@@ -13,13 +13,13 @@ public class Vending {
         int KITKAT = 85;
         int TWIX = 100;
         int tien, vijf;
-        int choice = 0;
+        int keuze = 0;
         int geld = 0;
         int amount = 0;
 
             System.out.println("Selecteer jouw product.");
             Scanner input = new Scanner(System.in);
-            choice = input.nextInt();
+            keuze = input.nextInt();
 
 
             System.out.println("Hoeveel cent heeft u?");
@@ -37,7 +37,7 @@ public class Vending {
             }
 
 
-            switch (choice) {
+            switch (keuze) {
                 case 1:
 
                     System.out.println("Je hebt " + geld + "cent ingeworpen.");
