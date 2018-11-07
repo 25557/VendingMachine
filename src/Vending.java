@@ -45,6 +45,13 @@ public class Vending {
                     System.out.println(tien + " stuiver(s)");
                     System.out.println(vijf + " kwartje(s)");
                     System.out.println("Bedankt! En geniet van jouw product.");
+                    System.out.println("    __________________,.............,    \n" +
+                            "   /_/_/_/_/_/_/_/_/,-',  ,. -,-,--/|\n" +
+                            "  /_/_/_/_/_/_/_/,-' //  /-| / /--/ /\n" +
+                            " /_/_/_/_/_/_/,-' `-''--'  `' '--/ /\n" +
+                            "/_/_/_/_/_/_,:................../ /\n" +
+                            "|________,'                   hh|/\n" +
+                            "         \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"'");
 
                     break;
 
@@ -64,6 +71,13 @@ public class Vending {
                     System.out.println(tien + " stuiver(s)");
                     System.out.println(vijf + " kwartje(s)");
                     System.out.println("Bedankt! En geniet van jouw product.");
+                    System.out.println("    __________________,.............,    \n" +
+                            "   /_/_/_/_/_/_/_/_/,-',  ,. -,-,--/|\n" +
+                            "  /_/_/_/_/_/_/_/,-' //  /-| / /--/ /\n" +
+                            " /_/_/_/_/_/_/,-' `-''--'  `' '--/ /\n" +
+                            "/_/_/_/_/_/_,:................../ /\n" +
+                            "|________,'                   hh|/\n" +
+                            "         \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"'");
 
                     break;
 
@@ -83,6 +97,13 @@ public class Vending {
                     System.out.println(tien + " stuiver(s)");
                     System.out.println(vijf + " kwartje(s)");
                     System.out.println("Bedankt! En geniet van jouw product.");
+                    System.out.println("    __________________,.............,    \n" +
+                            "   /_/_/_/_/_/_/_/_/,-',  ,. -,-,--/|\n" +
+                            "  /_/_/_/_/_/_/_/,-' //  /-| / /--/ /\n" +
+                            " /_/_/_/_/_/_/,-' `-''--'  `' '--/ /\n" +
+                            "/_/_/_/_/_/_,:................../ /\n" +
+                            "|________,'                   hh|/\n" +
+                            "         \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"'");
 
                     break;
 
@@ -102,6 +123,13 @@ public class Vending {
                     System.out.println(tien + " stuiver(s)");
                     System.out.println(vijf + " kwartje(s)");
                     System.out.println("Bedankt! En geniet van jouw product.");
+                    System.out.println("    __________________,.............,    \n" +
+                            "   /_/_/_/_/_/_/_/_/,-',  ,. -,-,--/|\n" +
+                            "  /_/_/_/_/_/_/_/,-' //  /-| / /--/ /\n" +
+                            " /_/_/_/_/_/_/,-' `-''--'  `' '--/ /\n" +
+                            "/_/_/_/_/_/_,:................../ /\n" +
+                            "|________,'                   hh|/\n" +
+                            "         \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"'");
 
                     break;
 
