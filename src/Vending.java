@@ -7,7 +7,6 @@ public class Vending {
         System.out.println("MILKYWAY: €0,95");
         System.out.println("TWIX: €1,00");
         System.out.println("KITKAT: €0,85");
-        
         int SNICKERS = 90;
         int MILKYWAY = 95;
         int KITKAT = 85;
